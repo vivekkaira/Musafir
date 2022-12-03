@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Musafir/precache-manifest.858c62d93ceb7a852784043ffff0cae2.js"
+  "/Musafir/precache-manifest.3167797e763f42419172c27b6c475414.js"
 );
 
 workbox.clientsClaim();

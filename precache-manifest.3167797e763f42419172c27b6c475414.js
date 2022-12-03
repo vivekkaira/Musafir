@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "7b17d7d17e21d9fe36ea",
-    "url": "/Musafir/static/css/main.b121fefd.chunk.css"
+    "revision": "995608ecaebabd53c16a",
+    "url": "/Musafir/static/css/main.d65f16e8.chunk.css"
   },
   {
-    "revision": "7b17d7d17e21d9fe36ea",
-    "url": "/Musafir/static/js/main.7b17d7d1.chunk.js"
+    "revision": "995608ecaebabd53c16a",
+    "url": "/Musafir/static/js/main.995608ec.chunk.js"
   },
   {
-    "revision": "0b5a879fb844fa2e6f9d",
-    "url": "/Musafir/static/css/1.f6629d12.chunk.css"
+    "revision": "f60ef5cb5149a6ed04b4",
+    "url": "/Musafir/static/css/1.7b4bb183.chunk.css"
   },
   {
-    "revision": "0b5a879fb844fa2e6f9d",
-    "url": "/Musafir/static/js/1.0b5a879f.chunk.js"
+    "revision": "f60ef5cb5149a6ed04b4",
+    "url": "/Musafir/static/js/1.f60ef5cb.chunk.js"
   },
   {
     "revision": "4d2a1463bbc2954a3e6a",
     "url": "/Musafir/static/js/runtime~main.4d2a1463.js"
   },
   {
-    "revision": "1187699ecd58d62ab7fdf5c42d891e85",
-    "url": "/Musafir/static/media/bg2.1187699e.jpg"
-  },
-  {
     "revision": "6d69d25ef18013409ef3999ec2fe714a",
     "url": "/Musafir/static/media/bg.6d69d25e.png"
+  },
+  {
+    "revision": "1187699ecd58d62ab7fdf5c42d891e85",
+    "url": "/Musafir/static/media/bg2.1187699e.jpg"
   },
   {
     "revision": "b2d0ceceb2207be976c3abb9026f0331",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/Musafir/static/media/instagram.6cbcb76e.svg"
   },
   {
-    "revision": "869e6b955d097b155a6a850e24c9472a",
+    "revision": "4520e153d9310b9354b4681c65ff81bc",
     "url": "/Musafir/index.html"
   }
 ];
